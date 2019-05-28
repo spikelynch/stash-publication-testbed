@@ -1,0 +1,23 @@
+{
+  "name": "publication-testbed",
+  "version": "1.0.0",
+  "description": "Testbed for doing DataCrates with OCFL ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "test",
+    "provisioner",
+    "data",
+    "publication",
+    "ocfl",
+    "datacrate"
+  ],
+  "author": "Mike Lynch",
+  "license": "ISC",
+  "dependencies": {
+    "calcyte": "^1.0.5",
+    "ocfl": "^1.0.0"
+  }
+}
